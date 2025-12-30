@@ -56,7 +56,7 @@ java -jar hangman.jar apple aple
 Результат выполнения:
 
 ```bash
-a p p l e;WIN
+apple;WIN
 ```
 
 ## 🧱 Структура проекта
