@@ -2,7 +2,7 @@ package academy.core.eval;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-
+import academy.core.eval.NonInteractiveEvaluatorRealize;
 import static org.junit.jupiter.api.Assertions.*;
 
 class NonInteractiveEvaluatorRealizeTest {
